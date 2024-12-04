@@ -1,7 +1,4 @@
-
-
-
-dfgfsgbprint ("Witaj w kalkulatorze")
+print ("Witaj w kalkulatorze")
 
 a = float(input("podaj pierwszą liczbe"))
 b = float(input("podaj drugą liczbe"))
